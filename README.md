@@ -11,7 +11,7 @@ Method:
 Based mostly on Gallup World Polls. Gallup samples each country to represent about 98% of the population. In countries where phones are widely available, Gallup samples numbers and conducts interviews over the phone (~30 minutes). In countries where phones are not prevalent, then Gallup conducts in-person interviews, usually for about an hour. For most countries, the number of interviews was at least 1000. 
 
 Features:
-1. Happiness Score - Gallup asked respondants to evaluate their current life as a whole using the mental image of a ladder, with the best possible life for them as a 10 and worst possible as a 0.
+1. Happiness Score - Gallup asked respondents to evaluate their current life as a whole using the mental image of a ladder, with the best possible life for them as a 10 and worst possible as a 0.
 
 2. Economy - based on GDP per capita is in terms of Purchasing Power Parity (PPP). The equation uses the natural log of GDP per capita. 
 
